@@ -2,3 +2,4 @@ db.sqlite3
 migrations/
 Pipfile
 Pipfile.lock
+__pycache__/
